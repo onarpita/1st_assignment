@@ -94,3 +94,69 @@ nav ul li{
     font-size: 12px;
     color: grey;
 }
+/*-----card section-----*/
+.cd-main{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.card-nain{
+    width: 600px;
+    margin: 0px 50px;
+}
+.card-main h1{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 30px;
+}
+.card{
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 10px 5px;
+}
+.card-inner{
+    width: 700px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.star1{
+    height: 12px;
+    margin-bottom: 0px;
+}
+.card h4{
+    font-size: 18px;
+    margin: 0px 5px;
+}
+.card p{
+    font-size: 10px;
+    margin: 5px;
+    color: grey;
+    padding: 0px 20px 0px 0px;
+}
+.card-img-set{
+    display: flex;
+}
+.com-dit h5{
+    margin: 5px;
+    padding: 0px;
+    color: rgb(43, 41, 41);
+    font-weight: 100;
+}
+.com-dit p{
+    margin: 5px;
+    padding: 0px;
+    color: grey;
+}
+.card-img1{
+    border-radius: 50%;
+    height: 30px;
+    margin-top: 5px;
+}
+.card:hover{
+    box-shadow: 8px 5px 2px rgb(238, 238, 238);
+    background-color: rgb(227, 239, 255);
+    transition: 0.5s;
+}
