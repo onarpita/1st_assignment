@@ -15,7 +15,7 @@
   color: #252432;
 }
 header{
-    background-image: url('../Assets/Hero-bg.png');
+    background-image: url('./Assets/Hero-bg.png');
     padding: 0px 0px 200px 0px;
 }
 nav{
