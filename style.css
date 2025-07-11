@@ -63,5 +63,34 @@ nav ul li{
     display: flex;
     justify-content: space-between;
     margin: 0px 250px 0px 200px;
-    padding: 200px 0px 200px 0px;;
+    padding: 200px 0px 0px 0px;
+}
+/*----follower section----*/
+.flo{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px ;
+}
+.follower{
+    width: 80%;
+    background-color: #e5e7ff;
+    border-radius: 30px;
+    text-align: center;
+    padding: 0px 10px;
+    margin: 0px 0px 10px 0px;
+
+}
+.user-main{
+    display: flex;
+    justify-content: space-around;
+}
+.user h1{
+    color: #4E47FF;
+    font-size: 50px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.user p{
+    font-size: 12px;
+    color: grey;
 }
